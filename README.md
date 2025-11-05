@@ -14,7 +14,8 @@ Apaixonado por dados, tecnologia e aprendizado constante. 🚀
   <img align="center" alt="Database" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Guilherme-Database" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Guilherme-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img align="center" alt="Guilherme-Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg">
+  <img align="center" alt="Guilherme-Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Office_Excel_%282019–present%29.svg">
+
 
 </div>
   
