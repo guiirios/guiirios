@@ -1,4 +1,7 @@
-## Olá Mundo !!!  eu sou Guilherme Rios, Estudante de Técnologia da Informação e Criador de Conteúdo para o Youtube. 
+## 💻 Olá, Mundo!!!
+Eu sou Guilherme Rios, estudante de Tecnologia da Informação e criador de conteúdo no YouTube!
+Apaixonado por dados, tecnologia e aprendizado constante. 🚀
+
 <div align="center">
   <a href="https://github.com/guiirios">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
