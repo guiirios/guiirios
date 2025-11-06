@@ -1,6 +1,7 @@
 ## 💻 Olá, Mundo!!!
-Eu sou Guilherme Rios, estudante de Tecnologia da Informação e criador de conteúdo no YouTube!
-Apaixonado por dados, tecnologia e aprendizado constante. 🚀
+🎓 Estudante de Tecnologia da Informação | Explorando o mundo de Data Analytics
+📊 Apaixonado por dados, design e aprendizado constante.
+💻 Buscando transformar informação em significado e impacto.
 
 <div align="center">
   <a href="https://github.com/guiirios">
