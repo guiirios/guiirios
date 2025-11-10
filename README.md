@@ -1,4 +1,4 @@
-## 💻 Olá, Mundo!!!
+## 💻 Hello, World!!!
 🎓 Estudante de Tecnologia da Informação | Explorando o mundo de Data Analytics
 <br>
 📊 Apaixonado por dados, design e aprendizado constante.
