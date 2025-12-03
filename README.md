@@ -18,10 +18,12 @@
   <img align="center" alt="Database" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Guilherme-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Guilherme-VSCode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" width="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobephotoshop.svg" width="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/sony.svg" width="20"/>
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Sony" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sony_logo.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
   
 ##
  
