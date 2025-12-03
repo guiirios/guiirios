@@ -4,26 +4,26 @@
 💻 Buscando transformar informação em significado e impacto.
 
 <div align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (tema claro e colorido) -->
   <a href="https://github.com/guiirios">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRios&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRios&layout=compact&langs_count=7&theme=default"/>
   </a>
 </div>
 
 <div align="center" style="display: inline_block;">
-  <!-- Skills / Tech -->
+  <!-- Skills / Tech badges coloridos -->
   <br>
-  <img align="center" alt="Guilherme-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Guilherme-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Database" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Guilherme-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img align="center" alt="Guilherme-VSCode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg">
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobephotoshop.svg">
-  <img align="center" alt="Sony Vegas" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/sony.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img align="center" alt="Figma" height="30" width="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+  <img align="center" alt="Sony Vegas" height="30" width="40" src="https://img.shields.io/badge/Sony_Vegas-9E0F0F?style=for-the-badge&logo=sony&logoColor=white">
 </div>
 
 ---
