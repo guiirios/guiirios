@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,9 +21,11 @@
   <img align="center" alt="Guilherme-VSCode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="Sony Vegas" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Sony_Vegas_logo.svg">
-  <img align="center" alt="Camtasia" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Camtasia_logo.svg">
+  <img align="center" alt="DaVinci Resolve" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/25/DaVinci_Resolve_17_logo.svg">
+  <img align="center" alt="Vegas Pro" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Vegas_Pro_21_logo.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
 </div>
 
 </div>
