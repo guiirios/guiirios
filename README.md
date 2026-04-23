@@ -12,6 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRios&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br>
 <p align="center">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -24,7 +25,7 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
-##
+
 
 <div> 
   <a href="https://www.youtube.com/@canalbigbang5567/featured" target="_blank">
